@@ -1,0 +1,30 @@
+_repo: A-Letter-on-the-Late-Post-Office-Agitation_63740
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaughan, C. J. (Charles John)
+    aliases:
+    - Vaughan, Chas. J. (Charles John)
+    - Vaughan, Charles John
+    birthdate: 1816
+    deathdate: 1897
+    gutenberg_agent_id: '52575'
+    url: http://www.gutenberg.org/2009/agents/52575
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Vaughan_(priest)
+description: ''
+gutenberg_issued: '2020-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63740'
+  lccn: '59058830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sunday legislation -- Great Britain'
+- !lcc 'HE'
+- !lcsh 'Postal service -- Great Britain'
+- GITenberg
+title: A Letter on the Late Post Office Agitation
+url: http://www.gutenberg.org/ebooks/63740
