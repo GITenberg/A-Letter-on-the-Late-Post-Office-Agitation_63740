@@ -1,5 +1,8 @@
 _repo: A-Letter-on-the-Late-Post-Office-Agitation_63740
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63740-h/images/cover.jpg
 creator:
   author:
     agent_name: Vaughan, C. J. (Charles John)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52575
     wikipedia: https://en.wikipedia.org/wiki/Charles_Vaughan_(priest)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63740#A-Letter-on-the-Late-Post-Office-Agitation
 gutenberg_issued: '2020-11-13'
 gutenberg_type: Text
 identifiers:
